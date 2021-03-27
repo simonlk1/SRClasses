@@ -1,0 +1,9 @@
+name: SRClasses
+version: 1.0
+main: io.github.simonlk1.srclasses.SRClasses
+
+commands:
+  kit:
+    description: Gives the player a diamond and 20 bricks
+    usage: /kit
+    permission: SRClasses.kit
